@@ -121,7 +121,7 @@ with st.sidebar:
     <div class="contact-box">
         <b>💬 Butuh bantuan?</b><br>
         Setup & custom fitur tersedia.<br><br>
-        📱 <b>WA:</b> +62 xxx-xxxx-xxxx<br>
+        📱 <b>WA:</b> +62 85923746251<br>
         📧 <b>Email:</b> fasfast@email.com
     </div>
     """, unsafe_allow_html=True)
